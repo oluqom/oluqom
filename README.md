@@ -1,10 +1,10 @@
 ### Hi there, I'm Frontend Developer 👋
 
-- 🌱 I’m currently learning: Web Development Base + CS. 
+- 🌱 I’m currently learning: Web Development Base + CS.
 - 📫 How to reach me: TG - @AlekseyPopovDev
-- ⚡ Fun fact: I am constantly learning because I think I'm stupid, and that's a fact. 
+- ⚡ Fun fact: I am constantly learning because I think I'm stupid, and that's a fact.
 
-### My stack: 
+### My stack:
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
@@ -28,15 +28,15 @@
 <!--
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
+    <img
       src="https://github-readme-stats.vercel.app/api?username=1PopovAleksey"
-      alt="Picture" 
+      alt="Picture"
       height="100%" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=1PopovAleksey&langs_count=8&layout=compact"
-      alt="Picture" 
+      alt="Picture"
       height="100%"
     />
   </a>
