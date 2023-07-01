@@ -1,7 +1,7 @@
 ### Hi there, I'm Frontend Developer 👋
 
 - 🌱 I’m currently learning: Web Development Base + CS.
-- 📫 How to reach me: TG - @AlekseyPopovDev
+- 📫 How to reach me: TG - @oluqom
 - ⚡ Fun fact: I am constantly learning because I think I'm stupid, and that's a fact.
 
 ### My stack:
