@@ -3,7 +3,11 @@ const LayoutHeader = () => {
     <header className="navbar fixed top-0 left-0 right-0 z-50 bg-base-300">
       <div className="navbar-start">
         <div className="dropdown">
-          <label tabIndex={0} className="btn btn-ghost btn-circle">
+          <label
+            tab-index={0}
+            tabIndex={0}
+            className="btn btn-ghost focus-visible:btn-neutral btn-circle"
+          >
             <svg
               xmlns="http://www.w3.org/2000/svg"
               className="h-5 w-5"
@@ -36,10 +40,20 @@ const LayoutHeader = () => {
         </div>
       </div>
       <div className="navbar-center">
-        <a className="btn btn-ghost normal-case text-xl">1PopovAleksey</a>
+        <a
+          tab-index={0}
+          className="btn btn-ghost focus-visible:btn-neutral normal-case text-xl"
+        >
+          oluqom
+        </a>
       </div>
       <div className="navbar-end">
-        <button className="btn btn-primary">Hire me</button>
+        <button
+          tab-index={0}
+          className="btn btn-primary focus-visible:btn-neutral"
+        >
+          Hire me
+        </button>
       </div>
     </header>
   );
