@@ -48,12 +48,13 @@ const LayoutHeader = () => {
         </a>
       </div>
       <div className="navbar-end">
-        <button
+        <a
+          href="https://t.me/oluqom"
           tab-index={0}
           className="btn btn-primary focus-visible:btn-neutral"
         >
           Hire me
-        </button>
+        </a>
       </div>
     </header>
   );
