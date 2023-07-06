@@ -155,12 +155,7 @@ const Home = () => {
       </section>
       <section className="bg-base-200">
         <div className="container py-32 flex flex-col gap-y-3">
-          <h2 className="text-5xl text-white font-bold">About Me</h2>
-          <p className="text-xl text-white">
-            A Frontend Developer with three years of experience. I started
-            programming at the age of 15 and continue to improve my skills. I am
-            also good at teamwork, have good Soft-skills.
-          </p>
+          <h2 className="text-5xl text-white font-bold">About Me</h2>       
           <p className="text-xl text-white">
             My journey in programming started with simple lendings and bug
             fixes, but now I'm developing large, scalable and complex web
