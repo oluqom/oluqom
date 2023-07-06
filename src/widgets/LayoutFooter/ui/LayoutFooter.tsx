@@ -5,7 +5,7 @@ const LayoutFooter = () => {
         <div className="items-center grid-flow-col">
           <p>
             1PopovAleksey <br />
-            Developing since 2022
+            Developing since 2020
           </p>
         </div>
         <div className="md:place-self-center md:justify-self-end">
