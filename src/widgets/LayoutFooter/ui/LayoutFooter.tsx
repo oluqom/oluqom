@@ -1,7 +1,7 @@
 const LayoutFooter = () => {
   return (
     <>
-      <footer className="footer px-5 py-3 fixed bottom-0 left-0 right-0 border-t bg-base-300 text-base-content border-base-300">
+      <footer className="flex justify-between items-center px-5 py-3 fixed bottom-0 left-0 right-0 border-t bg-base-300 text-base-content border-base-300">
         <div className="items-center grid-flow-col">
           <p>
             1PopovAleksey <br />
