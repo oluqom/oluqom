@@ -1,8 +1,10 @@
 ### Hi there, I'm Frontend Developer 👋
 
-- 🌱 I’m currently learning: Web Development Base + CS.
+- 🌱 I’m currently learning:  + CS.
 - 📫 How to reach me: TG - @oluqom
 - ⚡ Fun fact: I am constantly learning because I think I'm stupid, and that's a fact.
+
+<!--
 
 ### My stack:
 
@@ -25,7 +27,6 @@
 
 <br/>
 
-<!--
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
