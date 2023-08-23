@@ -1,6 +1,6 @@
 ### Hi there, I'm Frontend Developer 👋
 
-- 🌱 I’m currently learning: Shell + C/C++ + CS.
+- 🌱 I’m currently learning: Bash + C/C++.
 - 📫 How to reach me: TG - @oluqom
 - ⚡ Fun fact: I am constantly learning because I think I'm stupid, and that's a fact.
 
